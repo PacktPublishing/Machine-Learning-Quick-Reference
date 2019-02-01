@@ -55,7 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * TensorFlow Machine Learning Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786462169) [[Amazon]](https://www.amazon.com/dp/1786462168)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Rahul Kumar**
  has got more than 10 years of experience in the space of Data Science and
 Artificial Intelligence. His expertise lies in the machine learning and deep learning arena.
