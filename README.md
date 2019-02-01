@@ -35,6 +35,7 @@ boot_samp = resample(dataset, replace=True, n_samples=5, random_state=1)
 ```
 
 **Following is what you need for this book:**
+
 If you’re a machine learning practitioner, data scientist, machine learning developer, or engineer, this book will serve as a reference point in building machine learning solutions. You will also find this book useful if you’re an intermediate machine learning developer or data scientist looking for a quick, handy reference to all the concepts of machine learning. You’ll need some exposure to machine learning to get the best out of this book..
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
